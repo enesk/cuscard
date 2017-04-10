@@ -1,5 +1,4 @@
-/node_modules
-/appclient/node_modules
+node_modules
 /public/storage
 /public/hot
 /storage/*.key
